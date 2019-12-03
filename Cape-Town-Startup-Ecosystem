@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <style>
+    h2 {
+      font-family: roboto;
+      font-size: 24px;
+      padding: 2px;
+     }
+    p {
+      font-family: roboto;
+      font-size: 15px;
+      padding: 2px;
+    }
+    ul {
+      font-family: roboto;
+      font-size: 15px;
+      padding: 2px;
+    }
+  </style>
+  <title>Blog - Simon Blampied</title>
+</head>
+    <div style="max-width:400px;margin:auto;text-align:left">
+
+<body>
+    <h2><div "text-align:center">Cape Town Startup Ecosystem</div></h2>
+  <p></p>
+    
+  </div>
+  
+</body>
+</html>
+
+<!--What should a startup ecosystem aim to achieve?
+A startup ecosystem should make it easier to build better quality startups in larger quantities. The better the ecosystem the higher the concentration and abundance of quality startups.
+What is a quality startup?
+One where future profits are maximised and startup costs and risks are minimised so that;
+NPV of Profits (@T1) > Total Startup Costs (@T1)* Risk Factor
+Where Time One (T1) corresponds with the ‘One’ in Peter Thiel’s Zero to One concept, the end goal — where a repeatable and scalable business model has been found.
+The larger the magnitude of difference between the left hand-side and the right hand-side of the equation, the better the startup.
+The risk factor governs the magnitude of the relationship between expected future profits and total costs, the greater the risk, the bigger the win needs to be.
+So how do we make 1 quality startup?
+We focus on building an ecosystem that improves the likelihood of maximising future profits and reducing startup costs and risks.
+Future profits are a function of the size of the future market, the ability for the product to capture a significant share of the market and costs incurred to capture market share.
+Startup costs are the costs of producing, promoting and delivering product, operational costs, costs of capital and costs of finding a team.
+Startup risks are financial, social, personal and psychological.
+So how does Cape Town’s ecosystem do?
+Future Profits
+Do we collectively point entrepreneurs to the right future markets, provide constructive feedback to be able to capture a significant share of market and lower the costs of scaling and repeating?
+Pointing entrepreneurs at the right future market.
+Cape Town’s ecosystem is not future market driven enough, probably because the dominant voices within the startup landscape are later-stage VC’s, but we need a better mix of startups, we need more startups that go on to monopolise, or define a market.
+To achieve this, the ecosystem needs more public sharing of thought from “people in the know” — experienced entrepreneurs, companies, lecturers sharing their thoughts on the right future markets, large markets where we have an absolute or comparative advantage. We have public thought on markets in generalities, people mentioning things like enterprise software, payments, health and ecommerce but nothing even trying to be as in depth or thought provoking as Benedict Evans on Mobile. What I think Benedict Evans does the best is wonder out loud what potential markets could look like, we need more locally specific, publicly communicated scenario planning.
+2. The right solution to capture a significant share of the market.
+Feedback is crucial in improving a solution, especially open, constructive feedback from peers. This is aided by having a network-like, rather than hierarchical structure, Cape Town has the latter. Perhaps its because we have a VC-led, rather than an entrepreneur-led ecosystem?
+This results in most entrepreneurs being quite protective over what they’re doing, which reduces the amount of social learning and valuable feedback within and from the ecosystem. I’m not saying there isn’t great feedback in small pockets, or within small groups, but if we are trying to grow the pie, let’s open up a bit. What has your experience been like?
+Where the ecosystem can help is by giving critical input in start-ups, but this requires an openness from both entrepreneurs, to share their solution, and the community to give constructive input. Its a bit of a chicken and egg situation, but I think there is incredible value in entrepreneurs sharing their view of the world and thereby becoming a shaper of industry thought.
+3. Costs of Growth (Scaling and repeating)
+Growth costs are higher in emerging markets because of fractured media and distribution. Thus what we need are set-up media channels and distribution channels into other attractive markets.
+If our next high-growth startups are targeting the rest of the African Continent, we need to find a way to reduce scaling costs across african countries, because the barriers to trade in Africa are still high. The other growth avenue is targeting developed markets, where we can learn from startups like Gyft or Over as well as companies like Vida and Nando’s (who went to the UK) and Woolworths (Who moved into Australia).
+Startup Costs
+We need to create mechanisms to systematically lower costs, or at least make the startup expenses more efficient.
+Cost of producing, promoting and delivering product.
+Production costs go down when there is access to cheaper prototyping and manufacturing. This will be product specific, but for physical products there is CCDI and for software and services, we have relatively low wage costs vs developed markets and access to many free tools.
+Promotion costs go down when you have media that focuses on the innovators and early adopters. Just look at the example of Magic in the US, Hacker News and Product Hunt are critical in lowering startup promotion costs, what is the local example, Ventureburn? It feels like we may be lacking in this area, it may be down to the media, our natural risk-aversion or our love for all things foreign.
+For a startup selling physical products, distribution can be very costly, FMCG startups struggle to get into major retailers, road travel is largely determined by the cost of fuel which is high and with the fuel levies, will continue to be. There seem to be a few companies working on local distribution, but this seems to be the less sexy side of startups and little spoken about. How would you suggest the ecosystem helps to reduce these costs?
+2. Costs of operating
+These costs go down when there are cheaper overheads (rent, electricity, internet etc). Unfortunately property in our city is quite expensive, but there are ways to cut costs, upfront you can join one of the now many co-working spaces. Internet is always fun to look at, compare SA providers here and our prices relative to other african coutries here. We need to put more pressure on service providers to compete on price, because at the moment they are using data to beef up their bottomline.
+3. Costs of sourcing and ‘owning’ capital
+Costs incurred in searching for funding can be reduced, this is largely dependent on availability of capital which has a direct relationship with the quality of startups in the ecosystem. So until we start to win big consistently, funding search costs will continue to be high. Mich Atanga suggests that our VC’s could be far more open.
+What I mean by costs of ‘owning’ capital is how much of your company you give up. This is a supply/demand relationship in the early-stages, the more potential investors you have, the better the price you will get, i.e. the lower your costs. Cape Town has a growing number of VC’s, the better startups we have and the more we produce, the larger the growth of capital into our ecosystem, the better bargaining power entrepreneurs will have.
+4. Costs of finding the best team
+Two things help here, the supply of talented people in the city and the ease of meeting and recruiting them.
+Cape Town is lucky, we have good universities and even though there is a graduate brain drain to joburg, there are lots of talented people around. I think what may be the challenging part is recruiting people. What has been your experience?
+Startup Risks
+We need to reduce financial, social, personal and psychological risk.
+Financial risk can be reduced from everything suggested above, as well as minimising the time between a failed startup and the next job or startup. More about this in the next section.
+An ecosystem can help dramatically by speaking about the social, personal and psychological risks. I think Nic Haralambous does this incredibly well in his writing. For better health we have Sleek Geek and I think socially the stigma of failure is reduced, but perhaps we need to do more for the psychological effects of failure?
+There has been quite a bit written in the US about founder depression, but potentially more can be done locally?
+How do we make more startups?
+(Assuming we have the quality thing waxed)
+More entrepreneurs. This means more returning entrepreneurs and more first time entrepreneurs.
+Ultimately it boils down the ability for more talented people to do a cost/benefit analysis and find that being an entrepreneur has more value than being an employee.
+Intrinsically: the value of being an entrepreneur is the ability to build something you are passionate about, not everyone gets this value from being an employee.
+Extrinsically: the value of being an entrepreneur comes from two things, the social rewards and the potential financial rewards.
+The ecosystem can help by;
+educating people about the intrinsic benefits,
+improving the possibility of financial rewards, through consistent high-quality startups, and;
+reducing the risk factor, by pointing entrepreneurs in the right direction, giving good feedback and creating safety nets (through networks of supportive entrepreneurs) when startups fail.
+Ultimately
+I think it comes down to the entrepreneurs, we need to go after big wins, execute well and share liberally. Everything else, especially the costs of funding, promotion and growth will all lower as a result of success.
+So what should the ecosystem be focused on doing first and foremost?
+Sharing our thoughts with potential entrepreneurs on the biggest opportunities and best potential solutions. Everything else that goes into a juvenile ecosystem is important, but secondary.
+-->
